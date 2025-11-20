@@ -1,4 +1,4 @@
-# Lab5 (FINAL PROJECT)
+## FINAL PROJECT
 This project is based on the assignment template provided by PoliTO for the "Web Application II" course and it is a personal reupload for reference purposes. The implementation was developed collaboratively by myself and three colleagues.
 ## Docker image
 
